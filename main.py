@@ -331,7 +331,6 @@ while True:
     params = len(sub_cmds)
 
     statement = None
-
     if (sub_cmds[0] == "new"):
         if (sub_cmds[1] == "node"):
             if (params == 6):

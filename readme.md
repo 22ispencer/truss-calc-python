@@ -17,5 +17,6 @@ Commands
     - node_1 - the first node of the member
     - node_2 - the second node of a member
   - force - updates the force on a specific joint
+- solve
 - save - saves the current configuration to a json file
 - load - loads a json file with the specified for
