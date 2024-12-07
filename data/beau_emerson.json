@@ -1,0 +1,66 @@
+{
+  "nodes": [
+    {
+      "x": 0.0,
+      "y": 0.0,
+      "x_support": true,
+      "y_support": true,
+      "ext_force": [0.0, -250]
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "x_support": false,
+      "y_support": false,
+      "ext_force": [0.0, -250]
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "x_support": false,
+      "y_support": false,
+      "ext_force": [0.0, -250]
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "x_support": false,
+      "y_support": true,
+      "ext_force": [0.0, -250]
+    },
+    {
+      "x": 2.5,
+      "y": 0.70711,
+      "x_support": false,
+      "y_support": false,
+      "ext_force": [0.0, 0.0]
+    },
+    {
+      "x": 1.5,
+      "y": 0.70711,
+      "x_support": false,
+      "y_support": false,
+      "ext_force": [0.0, 0.0]
+    },
+    {
+      "x": 0.5,
+      "y": 0.70711,
+      "x_support": false,
+      "y_support": false,
+      "ext_force": [0.0, 0.0]
+    }
+  ],
+  "members": [
+    [0, 1],
+    [1, 2],
+    [2, 3],
+    [3, 4],
+    [4, 5],
+    [5, 6],
+    [6, 0],
+    [6, 1],
+    [1, 5],
+    [5, 2],
+    [2, 4]
+  ]
+}
